@@ -1,7 +1,0 @@
-D:\Desktop\SpiderDefence\AnimatedModelProcessorWin\obj\Zune\Debug\ResolveAssemblyReference.cache
-D:\Desktop\SpiderDefence\AnimatedModelProcessorWin\bin\Zune\Debug\AnimatedModelProcessorWin.dll
-D:\Desktop\SpiderDefence\AnimatedModelProcessorWin\bin\Zune\Debug\AnimatedModelProcessorWin.pdb
-D:\Desktop\SpiderDefence\AnimatedModelProcessorWin\bin\Zune\Debug\AnimatedModelContentWin.dll
-D:\Desktop\SpiderDefence\AnimatedModelProcessorWin\bin\Zune\Debug\AnimatedModelContentWin.pdb
-D:\Desktop\SpiderDefence\AnimatedModelProcessorWin\obj\Zune\Debug\AnimatedModelProcessorWin.dll
-D:\Desktop\SpiderDefence\AnimatedModelProcessorWin\obj\Zune\Debug\AnimatedModelProcessorWin.pdb
