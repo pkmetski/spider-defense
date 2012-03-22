@@ -1,0 +1,10 @@
+D:\Desktop\SpiderDefence\AnimatedModelContentWin\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Desktop\SpiderDefence\AnimatedModelContentWin\bin\x86\Debug\AnimatedModelContentWin.dll
+D:\Desktop\SpiderDefence\AnimatedModelContentWin\bin\x86\Debug\AnimatedModelContentWin.pdb
+D:\Desktop\SpiderDefence\AnimatedModelContentWin\obj\x86\Debug\AnimatedModelContentWin.dll
+D:\Desktop\SpiderDefence\AnimatedModelContentWin\obj\x86\Debug\AnimatedModelContentWin.pdb
+D:\Desktop\SpiderDefense\AnimatedModelContentWin\bin\x86\Debug\AnimatedModelContentWin.dll
+D:\Desktop\SpiderDefense\AnimatedModelContentWin\bin\x86\Debug\AnimatedModelContentWin.pdb
+D:\Desktop\SpiderDefense\AnimatedModelContentWin\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Desktop\SpiderDefense\AnimatedModelContentWin\obj\x86\Debug\AnimatedModelContentWin.dll
+D:\Desktop\SpiderDefense\AnimatedModelContentWin\obj\x86\Debug\AnimatedModelContentWin.pdb
