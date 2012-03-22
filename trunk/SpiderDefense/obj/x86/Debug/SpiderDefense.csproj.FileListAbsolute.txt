@@ -1,0 +1,48 @@
+D:\Desktop\SpiderDefense\SpiderDefense\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Desktop\SpiderDefense\SpiderDefense\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Desktop\SpiderDefense\SpiderDefense\bin\x86\Debug\Content\Effects\effects.xnb
+D:\Desktop\SpiderDefense\SpiderDefense\bin\x86\Debug\Content\Effects\Series4Effects.xnb
+D:\Desktop\SpiderDefense\SpiderDefense\bin\x86\Debug\Content\Effects\AnimatedModel.xnb
+D:\Desktop\SpiderDefense\SpiderDefense\bin\x86\Debug\Content\Models\OldTree.xnb
+D:\Desktop\SpiderDefense\SpiderDefense\bin\x86\Debug\Content\Models\GreenTree.xnb
+D:\Desktop\SpiderDefense\SpiderDefense\bin\x86\Debug\Content\Models\fence.xnb
+D:\Desktop\SpiderDefense\SpiderDefense\bin\x86\Debug\Content\Models\Tower.xnb
+D:\Desktop\SpiderDefense\SpiderDefense\bin\x86\Debug\Content\Heightmaps\heightmap.xnb
+D:\Desktop\SpiderDefense\SpiderDefense\bin\x86\Debug\Content\Textures\blank.xnb
+D:\Desktop\SpiderDefense\SpiderDefense\bin\x86\Debug\Content\Heightmaps\height1.xnb
+D:\Desktop\SpiderDefense\SpiderDefense\bin\x86\Debug\Content\Heightmaps\height2.xnb
+D:\Desktop\SpiderDefense\SpiderDefense\bin\x86\Debug\Content\Textures\grass.xnb
+D:\Desktop\SpiderDefense\SpiderDefense\bin\x86\Debug\Content\Heightmaps\height3.xnb
+D:\Desktop\SpiderDefense\SpiderDefense\bin\x86\Debug\Content\Textures\gradient.xnb
+D:\Desktop\SpiderDefense\SpiderDefense\bin\x86\Debug\Content\Textures\background1.xnb
+D:\Desktop\SpiderDefense\SpiderDefense\bin\x86\Debug\Content\Textures\background2.xnb
+D:\Desktop\SpiderDefense\SpiderDefense\bin\x86\Debug\Content\Textures\background3.xnb
+D:\Desktop\SpiderDefense\SpiderDefense\bin\x86\Debug\Content\Models\EnemyBeast.xnb
+D:\Desktop\SpiderDefense\SpiderDefense\bin\x86\Debug\Content\Models\WoodenArrow.xnb
+D:\Desktop\SpiderDefense\SpiderDefense\bin\x86\Debug\Content\Models\PathStones\stone1.xnb
+D:\Desktop\SpiderDefense\SpiderDefense\bin\x86\Debug\Content\Models\PathStones\stone2.xnb
+D:\Desktop\SpiderDefense\SpiderDefense\bin\x86\Debug\Content\Models\PathStones\stone3.xnb
+D:\Desktop\SpiderDefense\SpiderDefense\bin\x86\Debug\Content\Models\PathStones\stone4.xnb
+D:\Desktop\SpiderDefense\SpiderDefense\bin\x86\Debug\Content\Models\PathStones\stone5.xnb
+D:\Desktop\SpiderDefense\SpiderDefense\bin\x86\Debug\Content\Fonts\Courier New.xnb
+D:\Desktop\SpiderDefense\SpiderDefense\bin\x86\Debug\Content\Fonts\gamefont.xnb
+D:\Desktop\SpiderDefense\SpiderDefense\bin\x86\Debug\Content\Fonts\menufont.xnb
+D:\Desktop\SpiderDefense\SpiderDefense\bin\x86\Debug\Content\Textures\tree_uv_0.xnb
+D:\Desktop\SpiderDefense\SpiderDefense\bin\x86\Debug\Content\Textures\fence_0.xnb
+D:\Desktop\SpiderDefense\SpiderDefense\bin\x86\Debug\Content\Textures\roof_tiles_0.xnb
+D:\Desktop\SpiderDefense\SpiderDefense\bin\x86\Debug\Content\Textures\LIMESTO3_0.xnb
+D:\Desktop\SpiderDefense\SpiderDefense\bin\x86\Debug\Content\Textures\EnemyBeastDiffuse_0.xnb
+D:\Desktop\SpiderDefense\SpiderDefense\bin\x86\Debug\Content\Textures\woodgrain_0.xnb
+D:\Desktop\SpiderDefense\SpiderDefense\bin\x86\Debug\Content\Textures\feather_0.xnb
+D:\Desktop\SpiderDefense\SpiderDefense\bin\x86\Debug\Content\Textures\stone_0.xnb
+D:\Desktop\SpiderDefense\SpiderDefense\bin\x86\Debug\Spider Defence.exe.config
+D:\Desktop\SpiderDefense\SpiderDefense\bin\x86\Debug\Spider Defence.exe.manifest
+D:\Desktop\SpiderDefense\SpiderDefense\bin\x86\Debug\Spider Defence.application
+D:\Desktop\SpiderDefense\SpiderDefense\bin\x86\Debug\Spider Defence.exe
+D:\Desktop\SpiderDefense\SpiderDefense\bin\x86\Debug\Spider Defence.pdb
+D:\Desktop\SpiderDefense\SpiderDefense\bin\x86\Debug\AnimatedModelContentWin.dll
+D:\Desktop\SpiderDefense\SpiderDefense\bin\x86\Debug\AnimatedModelContentWin.pdb
+D:\Desktop\SpiderDefense\SpiderDefense\obj\x86\Debug\Spider Defence.exe.manifest
+D:\Desktop\SpiderDefense\SpiderDefense\obj\x86\Debug\Spider Defence.application
+D:\Desktop\SpiderDefense\SpiderDefense\obj\x86\Debug\Spider Defence.exe
+D:\Desktop\SpiderDefense\SpiderDefense\obj\x86\Debug\Spider Defence.pdb
